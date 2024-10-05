@@ -4,7 +4,7 @@
 
 set -eE
 confhome=https://raw.githubusercontent.com/bin456789/reinstall/main
-confhome_cn=http://github.moeyy.xyz/https://raw.githubusercontent.com/doulifv/reinstall/refs/heads/main/
+confhome_cn=https://raw.githubusercontent.com/doulifv/reinstall/refs/heads/main/
 # confhome_cn=https://mirror.ghproxy.com/https://raw.githubusercontent.com/bin456789/reinstall/main
 
 # 用于判断 reinstall.sh 和 trans.sh 是否兼容
